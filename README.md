@@ -2,7 +2,7 @@
 
 # 🌟 AI Agent with Gemini API  
 
-An AI-powered Python application that leverages the **Gemini API** to create an intelligent agent capable of interacting with users in real time. The project runs entirely on Python without the need for additional frameworks.  
+An AI-powered Python application that leverages the **Gemini API** to create an intelligent agent capable of interacting with users in real time. The project runs entirely on Python without the need for additional frameworks.It features a browser-based web UI for easy interaction and leverages GitHub open-source resources.
 
 ---
 
